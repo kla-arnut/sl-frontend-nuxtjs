@@ -1,0 +1,1 @@
+# sl-frontend-nuxtjs
